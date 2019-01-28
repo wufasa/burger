@@ -1,0 +1,23 @@
+
+body{
+    align-content: center;
+    text-align: center;
+    background-color: lightsalmon;
+}
+
+#mainBurger{
+    max-height: 200px;
+}
+
+.burgersToEat {
+    padding: 20px;
+    background-color: lightgray;
+    border: 1px solid green ;
+}
+
+.burgersAte{
+    padding: 10px;
+    background-color: lightgray;
+    border: 1px solid gray;
+    margin: 1px;
+}
